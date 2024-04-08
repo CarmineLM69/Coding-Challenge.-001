@@ -1,0 +1,58 @@
+body {
+     background-image: url(background.jpg);
+     background-size:100%;
+     color: white;
+}
+ .gruppo{
+     width: 300px;
+     margin: auto;
+}
+ .logo{
+     width: 250px;
+     margin-top: 20px;
+}
+ .testo{
+     margin-left: 400px;
+     color:rgb(0,200,0);
+     font-size: 30px;
+}
+ .quadrato{
+     background-color: green;
+     border: 1px solid black;
+     margin: 5px;
+     height: 40px;
+     padding-top: 15px;
+     text-align: center;
+}
+ .scatola{
+     width: 1200px;
+     border: 1px solid grey;
+     margin: 100px;
+     background-color: rgba(0, 0, 0, 0.5);
+     padding: 20px;
+     border-radius: 15px;
+}
+ .testo2{
+     font-size: 30px;
+     font-style: italic;
+     margin-top: 50px;
+}
+ .w3-orange {
+     background-color: orange;
+     border-radius: 5px;
+     height: 24px;
+     width: 35%;
+}
+ .w3-green {
+     background-color: green;
+     border-radius: 5px;
+     height: 24px;
+     width: 60%;
+}
+ .w3-red{
+     background-color: red;
+     margin-bottom: 40px;
+     border-radius: 5px;
+     height: 24px;
+     width: 20%;
+}
